@@ -1,3 +1,6 @@
+# text files used by the script
+*.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
